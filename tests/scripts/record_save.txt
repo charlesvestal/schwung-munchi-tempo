@@ -1,0 +1,28 @@
+# record a tone into the buffer (switch to record mode), play it, save to 14,
+# copy 14 -> 13 in chroma, erase 13, snapshots
+0 src line
+0 switch 0
+100 tone 440
+200 rec 1
+1200 rec 0
+1300 tone 0
+1400 switch 1
+1500 on 18
+2000 off 18
+2100 save 14
+2200 wait 300
+2300 slot 14
+2400 on 18
+2900 off 18
+3000 copy 14 13
+3100 wait 300
+3200 erase 13
+3300 wait 300
+3400 snap 1
+3500 snap 0
+3600 snap 1
+4800 snap 0
+5000 enc 0.0 50
+5100 snap 1
+5200 snap 0
+5500 end

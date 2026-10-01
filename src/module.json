@@ -1,0 +1,16 @@
+{
+    "id": "munchi-tempo",
+    "name": "Munchi Tempo",
+    "abbrev": "MTEMPO",
+    "version": "0.1.0",
+    "description": "CHOMPI TEMPO 1.0 on Move: a groovebox with chromatic and slice sample engines, a pattern generator for each, a clock-synced delay and diffusion reverb, A/B snapshots and 28 factory samples. Takes over Move until you exit.",
+    "author": "CHOMPI Club / Chase Bliss (CHOMPI TEMPO, MIT) · port: charlesvestal",
+    "license": "MIT",
+    "component_type": "tool",
+    "standalone": true,
+    "boot_target": {
+        "id": "munchi-tempo",
+        "name": "Munchi Tempo",
+        "exec": "boot-entry.sh"
+    }
+}

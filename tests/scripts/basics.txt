@@ -1,0 +1,9 @@
+# the buffer (boot sample), a chord, then the chromatic slot 2
+0 on 15
+0 on 18
+600 off 15
+600 off 18
+800 slot 2
+900 on 18
+1700 off 18
+2500 end

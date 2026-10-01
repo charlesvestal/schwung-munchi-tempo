@@ -1,0 +1,103 @@
+{
+  "title": "Munchi Tempo",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "CHOMPI TEMPO 1.0:",
+        "a chromatic and a",
+        "slice sampler with",
+        "a pattern for each.",
+        "",
+        "Takes over Move.",
+        "Back twice exits.",
+        "",
+        "Up: SLICE.",
+        "Down: CHROMA."
+      ]
+    },
+    {
+      "title": "Knobs",
+      "lines": [
+        "Page 1 (sample):",
+        "Speed Start End",
+        "Attack Release",
+        "Level Filter Lofi",
+        "",
+        "Right, page 2:",
+        "Delay, FX mix,",
+        "FX random, Feedbk,",
+        "Pan, Tempo,",
+        "Arp random, Comp",
+        "Vol: Volume"
+      ]
+    },
+    {
+      "title": "Patterns",
+      "lines": [
+        "Play: run.",
+        "Loop: latch; tap",
+        "pads to add or",
+        "remove. Loop again",
+        "clears.",
+        "Shift+Play: style.",
+        "Shift+Loop: rests.",
+        "Track 1: tap tempo",
+        "Shift+knob 6 (pg2):",
+        "clock division."
+      ]
+    },
+    {
+      "title": "Record",
+      "lines": [
+        "Hold Sample to",
+        "record the buffer.",
+        "Shift+Sample:",
+        "mic/line/resample.",
+        "",
+        "Track 4: monitor.",
+        "Mic is heard on",
+        "headphones only."
+      ]
+    },
+    {
+      "title": "Slots",
+      "lines": [
+        "Steps 1-14: slots.",
+        "Step 15: buffer.",
+        "Capture+step:",
+        "save the buffer.",
+        "Copy+step,step:",
+        "copy (same: keep",
+        "knob changes).",
+        "Delete+step,step:",
+        "erase."
+      ]
+    },
+    {
+      "title": "Snapshots",
+      "lines": [
+        "Step 16: switch",
+        "A and B.",
+        "Hold step 16:",
+        "copy over the",
+        "other one."
+      ]
+    },
+    {
+      "title": "More",
+      "lines": [
+        "Mute: freeze delay.",
+        "Track 2: loop.",
+        "Track 3: sustain.",
+        "Shift+Track 1:",
+        "external clock.",
+        "Shift+Track 4:",
+        "routing.",
+        "Delete+touch knob:",
+        "reset it.",
+        "Menu: settings."
+      ]
+    }
+  ]
+}

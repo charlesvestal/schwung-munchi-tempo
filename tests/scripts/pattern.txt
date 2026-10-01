@@ -1,0 +1,37 @@
+# Play, Loop (latch), three keys -> a pattern; then the arp styles
+0 on 33
+100 off 33
+200 on 34
+300 off 34
+400 on 15
+450 off 15
+500 on 18
+550 off 18
+600 on 22
+650 off 22
+# delay on the left side, then freeze
+3000 enc 3.0 -40
+5000 freeze
+7000 freeze
+# arp style Up (Shift+Play), random on the tempo knob
+7500 menukey 1
+7600 on 33
+7700 off 33
+7800 menukey 0
+8000 menc 4.0 30
+# slice engine, slot 8 (808), a beat with rests
+9000 engine 1
+9100 slot 8
+9200 on 34
+9300 off 34
+9400 on 15
+9450 off 15
+9500 on 7
+9550 off 7
+9600 on 8
+9650 off 8
+9700 on 10
+9750 off 10
+13000 on 33
+13100 off 33
+14000 end
